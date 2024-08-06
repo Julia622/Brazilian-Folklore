@@ -1,0 +1,73 @@
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 580px; 
+    margin-bottom: 70px;
+    margin-top: 80px;
+    font-size: 40px;
+}
+
+body{
+    background-color: rgb(246, 246, 200);
+    color: black;
+}
+
+#menu{
+    width: 950px;
+    height: 150px;
+    align-items: center;
+    display: flex;
+    margin-left: 350px;
+ }
+ 
+ #menu img{
+          border-radius: 700px;
+          margin-left: 80px;
+          width: 120px; 
+          height: 120px;     
+ }
+ 
+ #menu a{
+       color: black;
+       text-decoration: none; 
+       font-size: 20px;
+       margin-left: 20px;
+ }
+
+#text{
+     font-size: 20px;
+     margin-left: 200px; 
+     margin-top: 190px;
+     text-align: center;
+     width: 900px;
+}
+
+#main{
+    width: 500px;
+    float: left;
+    margin-top: 80px;
+}
+
+#main img{
+    width: 300px;
+    height: 520px;
+}
+
+#myths img{
+        border-radius: 700px;
+        width: 160px; 
+        height: 160px;
+        margin-left: 700px;
+}
+
+#myths h1{
+    font-size: 30px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+
+#myths p{
+     font-size: 20px;
+     margin-left: 325px; 
+     text-align: center;
+     width: 900px;
+}
